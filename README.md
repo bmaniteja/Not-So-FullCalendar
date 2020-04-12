@@ -1,1 +1,1 @@
-# Not-So-FullCalendar
+# Not So FullCalendar
